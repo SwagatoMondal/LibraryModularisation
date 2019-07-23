@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sample.modular</groupId>
+  <artifactId>sample-core</artifactId>
+  <version>1.0.0</version>
+  <packaging>aar</packaging>
+  <name>Sample Core</name>
+  <description>Sample Core containing some logical operations</description>
+  <developers>
+    <developer>
+      <id>swagato</id>
+      <name>Swagato</name>
+    </developer>
+  </developers>
+  <scm>
+    <url>http://www.your-domain.com/sdk/downloads</url>
+  </scm>
+  <licenses>
+		<license>
+			<name>Core Android License</name>
+			<url>https://support.your-domain.com/android/android-sdk-license/</url>
+		</license>
+	</licenses>
+</project>
